@@ -1,1 +1,2 @@
-loadstring(game:HttpGet("https://egorikusa.space/dda38dc224571d7704dce094.lua", true))()
+getgenv().gui = false
+loadstring(game:HttpGet("https://egorikusa.space/f9831d4891e7496500334f22.lua", true))()
