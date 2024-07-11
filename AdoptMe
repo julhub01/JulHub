@@ -1,2 +1,1 @@
-getgenv().gui = false
-loadstring(game:HttpGet("https://egorikusa.space/f9831d4891e7496500334f22.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JulHubz/JulHub/main/JulHub"))()
